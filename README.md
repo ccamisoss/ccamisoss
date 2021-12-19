@@ -15,5 +15,5 @@ Skills: Javascript | HTML | CSS | Node.js | React | Redux | Express | Sequelize 
 - 📫 How to reach me:  camilaluciasosa@hotmail.com 
 
 
-- **LinkedIn** :  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilasosa-fullstack/)  
+- LinkedIn username : camilasosa-fullstack 👉🏼  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilasosa-fullstack/)  
 
