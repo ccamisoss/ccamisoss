@@ -10,7 +10,8 @@ Here are some of my soft skills:
 - Adaptabillity
 - SCRUM
 
-### **Technical Skills**: Javascript • HTML • CSS • Node.js • React • Redux • Express • Sequelize • PostgreSQL • Postman 
+### **Technical Skills**: 
+<span align=center> Javascript • HTML • CSS • Node.js • React • Redux • Express • Sequelize • PostgreSQL • Postman </span>
 
 ---
 
