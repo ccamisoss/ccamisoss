@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is **Camila**
-![](https://i.pinimg.com/564x/1e/2f/c0/1e2fc0397c9d032f89448c6e2a784a84.jpg)
+![](https://github.com/ccamisoss/ccamisoss/blob/master/img/banner.jpg)
 
 I'm a **full-stack web developer**  📲
 Here are some of my soft skills: 
