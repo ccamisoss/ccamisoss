@@ -22,7 +22,7 @@ Here are some of my soft skills:
 ### Pokemon-App 
 This is my first project as a fullstack developer. It consists of a Single Page Application where the user can find or create pokemons. The front-end is developed with React, Redux and CSS and the back-end is developed with Node.js, Express, Sequalize and PostgreSQL.
 
-[<img alt="" src="https://i.pinimg.com/564x/c6/de/5a/c6de5a7538619fa3b8e03507c7bf61fe.jpg" />](https://github.com/ccamisoss/POKEMON-PI)
+[<img alt="" src="https://github.com/ccamisoss/ccamisoss/blob/main/img/pokemon-app.jpeg" />](https://github.com/ccamisoss/POKEMON-PI)
 
 ---
 
