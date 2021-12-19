@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Camila
+![](https://i.pinimg.com/564x/1e/2f/c0/1e2fc0397c9d032f89448c6e2a784a84.jpg)
 
-<!--
-**ccamisoss/ccamisoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer  📲
+Here are some of my soft skills: 
+- Active listener
+- Open mindedness
+- Emotional intelligence
+- Logical thinking
+- Adaptabillity
+- SCRUM
 
-Here are some ideas to get you started:
+Skills: Javascript | HTML | CSS | Node.js | React | Redux | Express | Sequelize | PostgreSQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:  camilaluciasosa@hotmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ccamisoss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilasosa-fullstack/)  
+
