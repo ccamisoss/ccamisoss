@@ -13,19 +13,7 @@ Here are some of my soft skills:
 ### **Technical Skills**: 
 <p align=center> Javascript • HTML • CSS • Node.js • React • Redux • Express • Sequelize • PostgreSQL • Postman </p>
 
----
-
-## Projects:
-
----  
-
-### Pokemon-App 
-This is my first project as a fullstack developer. It consists of a Single Page Application where the user can find or create pokemons. The front-end is developed with React, Redux and CSS and the back-end is developed with Node.js, Express, Sequalize and PostgreSQL.
-
-[<img alt="" src="https://github.com/ccamisoss/ccamisoss/blob/main/img/pokemon-app.jpeg" />](https://github.com/ccamisoss/POKEMON-PI)
-
----
-
+-
 ## How to reach me:  
 - 📫 Email: camilaluciasosa@hotmail.com 
 
