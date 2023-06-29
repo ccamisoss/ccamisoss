@@ -13,7 +13,7 @@ Here are some of my soft skills:
 ### **Technical Skills**: 
 <p align=center> Javascript • HTML • CSS • Node.js • React • Redux • Express • Sequelize • PostgreSQL • Postman </p>
 
--
+
 ## How to reach me:  
 - 📫 Email: camilaluciasosa@hotmail.com 
 
