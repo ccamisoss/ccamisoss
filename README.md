@@ -1,16 +1,9 @@
 ![](https://github.com/ccamisoss/ccamisoss/blob/main/img/banner.jpg)
 ## Hi there 👋, my name is **Camila**
 
-I'm a **full-stack web developer**  📲
-Here are some of my soft skills: 
-- Active listener
-- Open mindedness
-- Emotional intelligence
-- Logical thinking
-- Adaptabillity
-- SCRUM
-
-### **Technical Skills**: 
+I'm a **Fullstack developer**  📲
+Here are some of my skills: 
+ 
 - Javascript
 - HTML
 - CSS
@@ -25,11 +18,15 @@ Here are some of my soft skills:
 - Ruby on Rails
 - Jest
 - Wordpress
+- Next.js
+- Tailwind CSS
+- Firebase
+- Responsive design
 
 
 ## How to reach me:  
 - 📫 Email: camilaluciasosa@hotmail.com 
 
 
-- LinkedIn username : camilasosa-fullstack 👉🏼  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilasosa-fullstack/)  
+- LinkedIn 👉🏼  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilasosa-fullstack/)  
 
