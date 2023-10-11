@@ -28,5 +28,5 @@ Here are some of my skills:
 - 📫 Email: camilaluciasosa@hotmail.com
 
 
-- LinkedIn 👉🏼  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](mailto:camilaluciasosa@hotmail.com)  
+- LinkedIn 👉🏼  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilasosa-fullstack/)  
 
