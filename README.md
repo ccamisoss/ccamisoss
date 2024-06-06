@@ -2,77 +2,71 @@
 
 **Fullstack Developer**
 
-📧 [camilaluciasosa@hotmail.com](mailto:camilaluciasosa@hotmail.com) | 📞 [+54 11 6649 0475](tel:+541166490475)  
-🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/) | [GitHub](https://github.com/ccamisoss)
+📧 camilaluciasosa@hotmail.com | 📞 +541166490475  
+🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/) | [GitHub](https://github.com/ccamisoss)  
 
 ---
 
-## Sobre Mí
+## Professional Profile
 
-Soy una desarrolladora fullstack con más de 2 años de experiencia en la creación y mantenimiento de aplicaciones web y móviles. Me especializo en JavaScript, React y Node.js, con conocimientos sólidos en Ruby on Rails y PostgreSQL. Me apasiona crear soluciones escalables y mantener altos estándares de calidad en el desarrollo de software.
-
----
-
-## Habilidades Técnicas
-
-- **Frontend**: JavaScript, React, React Native, Redux, CSS3
-- **Backend**: Node.js, Ruby on Rails, Express.js
-- **Base de Datos**: PostgreSQL
-- **Testing**: Jest
-- **Otras Tecnologías**: HTML, Bootstrap, WordPress, Git
+Fullstack developer with over 2 years of experience in creating and maintaining web and mobile applications. Expertise in JavaScript, React, and Node.js, with a solid understanding of Ruby on Rails and PostgreSQL. Passionate about developing scalable solutions and maintaining high standards of quality and best practices.
 
 ---
 
-## Experiencia Laboral
+## Technical Skills
+
+**Frontend**: JavaScript, React, React Native, Redux, CSS3  
+**Backend**: Node.js, Ruby on Rails, Express.js  
+**Database**: PostgreSQL  
+**Testing**: Jest  
+**Other Technologies**: HTML, Bootstrap, WordPress, Git  
+
+---
+
+## Work Experience
 
 ### Fullstack Developer | Vita Wallet
-**Mayo 2022 – Mayo 2023 (1 año) | Remoto**
-- Modelado de requerimientos funcionales en bases de datos relacionales.
-- Implementación y revisión de nuevas funcionalidades y mejoras.
-- Realización de pruebas automatizadas y corrección de errores.
-- Integración de soluciones de proveedores externos a través de APIs.
-- Documentación de soluciones implementadas y mantenimiento de estándares de buenas prácticas.
+**May 2022 – May 2023 (1 year) | Remote**  
+- Modeled functional requirements in relational databases.
+- Implemented and reviewed new features and enhancements for the product.
+- Conducted automated testing and resolved errors during and after development.
+- Integrated solutions from external providers through APIs.
+- Documented implemented solutions and maintained high standards of best practices.
 
 ---
 
-## Proyectos Destacados
+## Projects
 
-### [Spoter](https://github.com/ccamisoss/spoter)
-**Enero 2022 – Presente**
-- Desarrollo de una aplicación móvil con React Native.
-- Creación e implementación de componentes y lógica esencial.
-- Aplicación de técnicas de CSS para una interfaz visualmente atractiva.
+### Spoter
+**January 2022 – Present | 2 teammates**  
+- Development of a mobile application using React Native.
+- Creation and implementation of essential components and logic.
+- Application of CSS techniques for visually appealing interface.
 
-### [Pokemon App](https://github.com/ccamisoss/pokemon-app)
-**Noviembre 2021**
-- Desarrollo de una SPA utilizando React y Redux.
-- Implementación de back-end con Node.js y Express.
-- Uso de PostgreSQL para almacenamiento de datos.
-
----
-
-## Educación
-
-### Certificado en Desarrollo de Software
-**Henry Bootcamp | Buenos Aires, Argentina**
-**Agosto 2021 – Febrero 2022 (6 meses)**
-- Bootcamp intensivo de JavaScript (+700 horas).
-- Tecnologías: ECMAScript 6, React, Redux, Node.js, Express.js, HTML, Bootstrap, Sequelize, PostgreSQL, Git.
+### Pokemon App
+**November 2021 | 1 teammate**  
+- Developed a SPA using React and Redux.
+- Backend implementation with Node.js and Express.
+- Use of PostgreSQL for data storage.
 
 ---
 
-## Certificaciones y Premios
+## Education
 
-- **First Certificate in English (B2)** | Cambridge Institute | Diciembre 2019
-
----
-
-## Idiomas
-
-- **Inglés**: Competencia profesional
+### Software Development Certificate
+**Henry Bootcamp | Buenos Aires, Argentina**  
+**August 2021 – February 2022 (6 months)**  
+- Intensive JavaScript bootcamp (+700 hours).
+- Technologies: ECMAScript 6, React, Redux, Node.js, Express.js, HTML, Bootstrap, Sequelize, PostgreSQL, Git.
 
 ---
 
-## Contacto
+## Certifications and Awards
 
-Estoy siempre abierta a nuevas oportunidades y colaboraciones. No dudes en contactarme a través de [camilaluciasosa@hotmail.com](mailto:camilaluciasosa@hotmail.com) o en LinkedIn.
+- **First Certificate in English (B2)** | Cambridge Institute | December 2019
+
+---
+
+## Languages
+
+- **English**: Professional proficiency
