@@ -2,8 +2,8 @@
 
 **Fullstack Developer**
 
-📧 camilaluciasosa@hotmail.com | 📞 +541166490475  
-🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/) | [GitHub](https://github.com/ccamisoss)  
+📧 camilaluciasosa@gmail.com | 📞 +541166490475  
+🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/)
 
 ---
 
@@ -15,11 +15,11 @@ Fullstack developer with over 2 years of experience in creating and maintaining 
 
 ## Technical Skills
 
-**Frontend**: JavaScript, React, React Native, Redux, CSS3  
+**Frontend**: JavaScript, React.js, React Native, Redux, CSS3, Tailwind, Next.js 
 **Backend**: Node.js, Ruby on Rails, Express.js  
-**Database**: PostgreSQL  
+**Database**: PostgreSQL, MongoDB 
 **Testing**: Jest  
-**Other Technologies**: HTML, Bootstrap, WordPress, Git  
+**Other Technologies**: HTML, Bootstrap, WordPress, Git, Postman 
 
 ---
 
@@ -37,13 +37,13 @@ Fullstack developer with over 2 years of experience in creating and maintaining 
 
 ## Projects
 
-### Spoter
-**January 2022 – Present | 2 teammates**  
+### Findspot Mobile App
+**January 2022 | 5 teammates**  
 - Development of a mobile application using React Native.
 - Creation and implementation of essential components and logic.
 - Application of CSS techniques for visually appealing interface.
 
-### Pokemon App
+### Pokemon Web App
 **November 2021 | 1 teammate**  
 - Developed a SPA using React and Redux.
 - Backend implementation with Node.js and Express.
