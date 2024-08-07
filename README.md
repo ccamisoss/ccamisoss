@@ -2,7 +2,7 @@
 
 **Fullstack Developer**
 
-📧 camilaluciasosa@gmail.com | 📞 +541166490475  
+📧 camilaluciasosa@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/)
 
 ---
