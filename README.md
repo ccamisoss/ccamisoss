@@ -2,7 +2,7 @@
 
 **Fullstack Developer**
 
-📧 camilaluciasosa@gmail.com
+📧 sosacamila468@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/)
 
 ---
