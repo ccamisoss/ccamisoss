@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Camila Lucía Sosa  
 
 💻 **Fullstack Developer** | Building scalable web & mobile apps  
-🚀 Passionate about React, Node.js, and modern web technologies  
+🚀 Passionate about React, Python, and modern web technologies  
 🌍 Based in Argentina | Open to remote opportunities  
 
 ---
