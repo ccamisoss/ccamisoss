@@ -26,4 +26,3 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/)  
 📧 [camilaluciasosa@gmail.com](mailto:camilaluciasosa@gmail.com)  
-🐙 [GitHub](https://github.com/ccamisoss)  
