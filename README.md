@@ -22,14 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccamisoss&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccamisoss&layout=compact&theme=radical)  
-
----
-
 ## 📫 Let's Connect  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/)  
