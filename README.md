@@ -1,28 +1,52 @@
-# 👋 Hi, I'm Camila Lucía Sosa  
+# Hi, I'm Camila Sosa 👋  
 
-💻 **Fullstack Developer** | Building scalable web & mobile apps  
-🚀 Passionate about React, Python, and modern web technologies  
-🌍 Based in Argentina | Open to remote opportunities  
-
----
-
-## 🛠️ Tech Stack  
-
-**Frontend:** React, React Native, Redux, Tailwind, styled-components  
-**Backend:** Node.js, Ruby on Rails, Express, Python  
-**Database:** PostgreSQL, Sequelize  
-**Tools & Others:** GitHub Actions, Jest, Docker, APIs integration  
+💻 Fullstack Developer (React · Python · Ruby on Rails)  
+🌍 Argentina · Open to remote roles  
 
 ---
 
-## 🚀 Featured Projects  
+## About  
 
-- 📱 **[Findspot App](#)** – Mobile app for location-based services (React Native + Redux)  
-- 🎮 **[Pokémon SPA](#)** – Single Page Application with React, Express & PostgreSQL  
+Fullstack Developer with **2+ years of professional experience** building and maintaining production web applications.
+
+I’ve worked on **fintech and SaaS products**, contributing across frontend and backend, improving code quality, fixing critical bugs, and delivering features end-to-end.  
+Currently focused on **scalable frontend architectures**, clean APIs, and maintainable codebases.
 
 ---
 
-## 📫 Let's Connect  
+## Tech Stack  
+
+**Frontend**  
+- React, React Native  
+- Redux, TypeScript  
+- Tailwind CSS, styled-components  
+
+**Backend**  
+- Python  
+- Ruby on Rails  
+- Node.js, Express  
+
+**Database**  
+- PostgreSQL  
+
+**Tools & Practices**  
+- Git & GitHub  
+- CI/CD (GitHub Actions)  
+- Docker  
+- Automated testing  
+- API integrations  
+
+---
+
+## What you'll find here  
+
+- Production-oriented projects and experiments  
+- Clean, readable, and maintainable code  
+- Real-world patterns and best practices  
+
+---
+
+## Contact  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/camilasosa-fullstack/)  
 📧 [camilaluciasosa@gmail.com](mailto:camilaluciasosa@gmail.com)  
