@@ -30,9 +30,8 @@ Currently focused on **scalable frontend architectures**, clean APIs, and mainta
 - PostgreSQL  
 
 **Tools & Practices**  
-- Git & GitHub  
+- Git, GitHub & Gitlab
 - CI/CD (GitHub Actions)  
-- Docker  
 - Automated testing  
 - API integrations  
 
