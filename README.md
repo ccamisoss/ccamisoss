@@ -1,6 +1,6 @@
 # Hi, I'm Camila Sosa 👋  
 
-💻 Fullstack Developer (React · Python · Ruby on Rails)  
+💻 Fullstack Developer (React · Python · Node)  
 🌍 Argentina · Open to remote roles  
 
 ---
