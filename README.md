@@ -10,7 +10,7 @@
 Fullstack Developer with **2+ years of professional experience** building and maintaining production web applications.
 
 I’ve worked on **fintech and SaaS products**, contributing across frontend and backend, improving code quality, fixing critical bugs, and delivering features end-to-end.  
-Currently focused on **scalable frontend architectures**, clean APIs, and maintainable codebases.
+Currently focused on **scalable architectures**, clean APIs, and maintainable codebases.
 
 ---
 
