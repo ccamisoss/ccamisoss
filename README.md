@@ -1,4 +1,4 @@
-# Hi, I'm Camila Sosa 👋  
+# Hi, I'm Camila Sosa 👋🏻
 
 💻 Fullstack Developer (React · Python · Node)  
 🌍 Argentina · Open to remote roles  
@@ -19,7 +19,7 @@ Currently focused on **scalable architectures**, clean APIs, and maintainable co
 **Frontend**  
 - React, React Native  
 - Redux, TypeScript  
-- Tailwind CSS, styled-components  
+- Tailwind CSS, CSS modules, styled-components  
 
 **Backend**  
 - Python  
@@ -32,8 +32,8 @@ Currently focused on **scalable architectures**, clean APIs, and maintainable co
 **Tools & Practices**  
 - Git, GitHub & Gitlab
 - CI/CD (GitHub Actions)  
-- Automated testing  
-- API integrations  
+- Automated testing (Jest & Supertest)
+- API integrations - AI integrations
 
 ---
 
