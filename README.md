@@ -1,4 +1,4 @@
-# Hi, I'm Camila Sosa 👋🏻
+# Hi, I'm Camila Sosa
 
 💻 Fullstack Developer (React · Python · Node)  
 🌍 Argentina · Open to remote roles  
